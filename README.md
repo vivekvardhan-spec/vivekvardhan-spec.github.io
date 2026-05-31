@@ -1,1 +1,1 @@
-# vivekvardhan-spec.github.io
+# vivekvardhan.github.io
